@@ -14,7 +14,7 @@
     --font-family: "Roboto", sans-serif;
     --second-family: "Raleway", sans-serif;
 }
-/* h1,
+h1,
 h2,
 h3,
 h4,
@@ -23,36 +23,36 @@ h6,
 p{
     margin-top: 0;
     margin-bottom: 0;
-} */
-/* ul,
+}
+ul,
 ol{
     margin-top: 0;
     margin-bottom: 0;
     padding-left: 0;
     list-style-type: none;
-} */
-/* img{
+}
+img{
     display: block;
-} */
-/* body {
+}
+body {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color:#fff ;
-} */
-/* a{
+}
+a{
     text-decoration: none;
     color: inherit;
-} */
-/* .container {
+}
+.container {
     max-width:1158px;
     padding-left:15px;
     padding-right: 15px;
     margin-left: auto;
     margin-right:auto;
     
-} */
+}
 
-/* .page-header{
+.page-header{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -63,28 +63,28 @@ ol{
     box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 1px 6px rgba(46, 47, 66, 0.08);
     background-color: #fff;
-} */
-/* .header-container{
+}
+.header-container{
     display: flex;
     justify-content: center;
     align-items: center;
-} */
-/* header .container {
+}
+header .container {
     display: flex;
     justify-content: space-between;
     width: 100%;
-} */
+}
 .page-header a{
     font-style: normal;
     font-weight: 400;
     color: #434455;
 }
 
-/* .page-nav{
+.page-nav{
     display: flex;
     align-items: center;
-} */
-/* header .page-logo {
+}
+header .page-logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -93,12 +93,12 @@ ol{
     text-transform: uppercase;
     color:#4d5ae5;;
     margin-right:76px ;
-} */
-/* .logo-bl {
+}
+.logo-bl {
     color: #2e2f42;
-} */
+}
 
-/* .page-nav-list{
+.page-nav-list{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -108,16 +108,16 @@ ol{
     display: flex;
     gap: 40px;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-} */
-/* .page-nav-list:hover,
+}
+.page-nav-list:hover,
 .page-nav-list:focus {
     color: #404bbf;
-} */
-/* .page-nav-list-item-studio .page-nav-linc{
+}
+.page-nav-list-item-studio .page-nav-linc{
     color: #404bbf;
     transition: olor 250ms cubic-bezier(0.4, 0, 0.2, 1)
     
-} */
+}
 /* .page-nav-list .current{
 color: #404bbf;
 } */

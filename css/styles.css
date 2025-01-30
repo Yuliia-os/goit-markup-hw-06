@@ -761,12 +761,18 @@ header .page-logo {
 }
 
 @media (min-width:320px) {
+    .contacts-nav-list-info{
+
+    }
     .container{
         width: 320px;
         padding-left: 16px;
         padding-right: 16px;
         margin: 0;
     }
+        .contacts-nav-list-info {
+            display: none;
+        }
         li .contacts-nav-list-item {
             display: none;
         }
@@ -784,9 +790,11 @@ header .page-logo {
     }
     .mobile-menu-open{
         border: none;
-        background-color: transparent;
-
-    
+            background-color: transparent;
+            padding: 0;
+            line-height: 0;
+            stroke: #111111;
+        
     }
         .main-baner{
             display: flex;
